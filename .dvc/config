@@ -1,2 +1,6 @@
-['remote "s3"']
+[core]
+    remote = local
+['remote "storage"']
     url = s3://tgvashworth-dvc-test
+['remote "local"']
+    url = /tmp/dvc
