@@ -3,3 +3,4 @@
 /share
 /bin
 pyvenv.cfg
+/model.pkl
