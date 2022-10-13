@@ -1,5 +1,6 @@
 [core]
     remote = local
+    autostage = true
 ['remote "storage"']
     url = s3://tgvashworth-dvc-test
 ['remote "local"']
